@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b285227b-1843-4c6b-8449-d9c4fcd67c1a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/main/dulogo.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/main/emailicon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/main/emsrelay.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/main/giticon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/main/liicon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/main/main.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/main/mainphoto.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/main/resume.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/main/resumeicon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/main/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/main/webite.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/main/website.png" />
+      <change beforePath="$PROJECT_DIR$/client/app/main/webite.js" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -227,16 +216,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530215237754</updated>
-      <workItem from="1530215242226" duration="76000" />
+      <workItem from="1530215242226" duration="148000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76000" />
+    <option name="totallyTimeSpent" value="148000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="726" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -250,7 +238,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
