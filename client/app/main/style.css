@@ -25,7 +25,7 @@ body{
 /*profile picture spacing*/
 #mainphoto{
     padding-top: 50px;
-    padding-left: 25%;
+    /*padding-left: 25%;*/
 }
 
 /*profile picture attribute*/
@@ -60,57 +60,24 @@ img{
 }
 
 /*for the picture of a portfolio member*/
-.portfolioPicture{
+.ppic {
     border-radius: 50px;
     width: 200px;
     height: 133px;
-    margin-right: 75px;
-    margin-left: 100px;
-    padding-right: 10px;
-    margin-bottom: 25px;
-}
+    margin:auto;
+    display:block;
 
-.crop
-{
-    object-fit: cover
 }
-
 /*for the information of a portfolio member*/
-.portfolioInfo1{
-    padding-top: 50px;
-    margin-right: 25px;
-    margin-left: 50px;
-    float:left;
-    padding-bottom: 75px;
+.pinfo{
     text-align: center;
-    line-height: 25px;
-
-
+    line-height: 50px;
 }
-.portfolioInfo2{
-    padding-top: 50px;
-    margin-right: 25px;
-    margin-left: 50px;
-    float:left;
-    padding-bottom: 75px;
-    text-align: center;
-    line-height: 25px;
 
 
-}
-.portfolioInfo3{
-    padding-top: 50px;
-    margin-right: 25px;
-    margin-left: 0px;
-    float:left;
-    padding-bottom: 75px;
-    text-align: center;
-    line-height: 25px;
-
-
-}
 #final{
-    padding-left: 400px;
+    text-align: center;
+    line-height: 50px;
     color: #8D6CAB;
     font-size: 200%;
     font-family: "Marker Felt", "fantasy";

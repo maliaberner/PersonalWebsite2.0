@@ -1,7 +1,9 @@
 <!DOCTYPE html>
+<html lang="en">
 <head>
     <title>Malia Berner</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
     <script src="project2.js"></script>
 
 </head>
@@ -14,13 +16,14 @@
 <div id="bottom"></div>
 
 
-<div id = "header">
+<div class = container-fluid id = "header">
+
     <!--profile picture-->
-    <div class ="container1" id ="mainphoto">
+    <div class ="d-flex align-items-center " id ="mainphoto">
         <img src="mainphoto.jpg" alt="Profile Pic" height="200" width="300">  </div>
 
-    <!--header-->
-    <div class ="container1" id= "maininfo">
+    <!--header and icons-->
+    <div class ="container1 col-sm-12 col-md-6 col-lg-6" id= "maininfo">
         <header>Malia Berner</header>
 
         <div id = "iconContainer">
@@ -48,20 +51,22 @@
             coach at the University of Denver Youth Gymnastics program.</p1>
     </div>
 </div>
-<div class = "container3 clear main">
-    <header class = "sectionHeader"> My Work </header><br><br><br>
-    <a href = "maliaberner.com" target="_blank"> <image src = "website.png" class = "portfolioPicture crop"/></a>
-    <a href = "https://play.google.com/store/apps/details?id=com.novumconcepts.droid.biophone2&hl=en" target="_blank"> <image src ="emsrelay.png" class = "portfolioPicture" /></a>
-    <a href = "https://ritchieschool.du.edu/innovation-floor/" target = "_blank"><img src ="dulogo.jpg" class = "portfolioPicture crop "/><br></a>
-    <p1 class = "portfolioInfo1">I built this website using HTML <br/>
-        and CSS for practice and professional  <br/>
-        advancement</p1>
-    <p2 class = "portfolioInfo2">I interned for a healthcare startup<br/> building their iOS App using Swift and <br/> Objective-C meant to aid the communication <br/> between emergency responders and hospitals</p2>
-    <p3 class = "portfolioInfo3">I am currently working on a project for the <br/>
-        University of Denver Innovation Floor <br/>writing a printer verification system for their <br/>3D printers</p3>
-    <p4 id = "final">Please see my GitHub for more!</p4>
+<div class="container container3">
+    <div class = "sectionHeader">My Work</div><br>
+    <div class="col-sm-12 col-lg-4"><image src = "website.png" class = "ppic pinfo"/>
+        <br><br><div class = "pinfo"><p1>I built this website using HTML, CSS and Bootstrap
+            to practice my web development skills. I especially enjoyed using and learning more about Bootstrap.
+            I was impressed by it's functionality.</p1></div></div>
+    <div class="col-sm-12 col-lg-4"><image src ="emsrelay.png" class = "ppic"/>
+        <br><br><div class = "pinfo"><p2>In Summer 2016 I interned for a healthcare startup<br/>
+            building their iOS App using Swift and
+            Objective-C. This app was meant to aid the communication
+            between emergency responders and hospitals.</p2></div></div>
+    <div class="col-sm-12 col-lg-4"><image src ="mso.png" class = "ppic"/><br><br><div class = "pinfo"><p3>My responsibilites
+        with MeetScoresOnline include managing athlete profiles as well as updating the functionality of the
+        website using Javascript, HTML, Bootstrap, and CSS.</p3></div></div> <br>
 
-
+    <div id = "final"><p4>Please see my GitHub for more!</p4></div>
 
 </div>
 
