@@ -3,47 +3,44 @@ body{
     background-color: white;
 }
 
-#header{
-    padding-top: 100px;
-    padding-bottom: 500px;
-}
-
-/*container specifics*/
-.container1{
-    flex-direction: row;
-    float:left;
-    padding-bottom: 50px;
-}
-
-/*top section*/
-.main{
-    padding-left: 3%;
-    padding-right: 3%;
-    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-}
-
-/*profile picture spacing*/
-#mainphoto{
-    padding-top: 50px;
-    /*padding-left: 25%;*/
-}
-
-/*profile picture attribute*/
-img{
+#profilepic{
     border-radius: 50px;
+    height: 200px;
+    width: 300px;
 }
 
-#aboutme{
-    line-height: 50px;
-}
-/*main info spacing*/
 #maininfo{
-    padding-top: 100px;
-    padding-left: 3%;
     font-family: "Marker Felt", "fantasy";
     color: #8D6CAB;
     font-size: 300%;
+
 }
+
+
+.icon{
+    width: 60px;
+    height: 60px;
+}
+
+.ppcenter{
+    text-align: center;
+    padding-top: 11.5%;
+    padding-bottom: 13.5%;
+}
+
+.fcenter{
+    text-align: center;
+    padding-top: 2.5%;
+    padding-bottom: 5.5%;
+}
+
+
+
+#aboutme{
+    line-height: 50px;
+
+}
+
 
 .sectionHeader {
     text-align: center;
@@ -66,12 +63,27 @@ img{
     height: 133px;
     margin:auto;
     display:block;
-
 }
 /*for the information of a portfolio member*/
 .pinfo{
     text-align: center;
     line-height: 50px;
+}
+
+.fpic {
+    border-radius: 50px;
+    width: 300px;
+    height: 400px;
+    object-fit: cover;
+    text-align: center;
+}
+
+.workpadding{
+    padding-bottom: 30px;
+}
+
+.githubpadding{
+    padding-bottom: 25px;
 }
 
 
@@ -81,6 +93,8 @@ img{
     color: #8D6CAB;
     font-size: 200%;
     font-family: "Marker Felt", "fantasy";
+    padding-bottom: 50px;
+
 }
 
 

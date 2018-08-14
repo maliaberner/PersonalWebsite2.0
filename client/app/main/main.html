@@ -16,35 +16,31 @@
 <div id="bottom"></div>
 
 
-<div class = container-fluid id = "header">
-
+<div class ="col-xs-12 ppcenter">
     <!--profile picture-->
-    <div class ="d-flex align-items-center " id ="mainphoto">
-        <img src="mainphoto.jpg" alt="Profile Pic" height="200" width="300">  </div>
+    <div>
+        <img src="mainphoto.jpg" id = "profilepic"> </div>
 
     <!--header and icons-->
-    <div class ="container1 col-sm-12 col-md-6 col-lg-6" id= "maininfo">
-        <header>Malia Berner</header>
+    <div>
+        <div id= "maininfo">
+            Malia Berner</div>
 
-        <div id = "iconContainer">
+        <div>
             <!--profile links-->
-            <p2><a href = "https://www.linkedin.com/in/maliaberner/" target="_blank"> <input type='image' src ="liicon.png" class = "icon"/></a>
-                <a href = "https://github.com/maliaberner/" target="_blank"> <input type='image' src ="giticon.png" class = "icon"/></a>
-                <input type='image' src ="resumeicon.png" class = "icon"/>
-                <a href="mailto:maliaberner4@gmail.com?" target= "_top"> <input type='image' src ="emailicon.png" class = "icon" /></a>
-            </p2></div>
+            <a href = "https://www.linkedin.com/in/maliaberner/" target="_blank"> <input type='image' src ="liicon.png" class = "icon"/></a>
+            <a href = "https://github.com/maliaberner/" target="_blank"> <input type='image' src ="giticon.png" class = "icon"/></a>
+            <input type='image' src ="resumeicon.png" class = "icon"/>
+            <a href="mailto:maliaberner4@gmail.com?" target= "_top"> <input type='image' src ="emailicon.png" class = "icon" /></a>
+        </div>
     </div>
 </div>
 
 
 <div>
-    <script>
-        document.getElementById("left right").style.color = "white";
-    </script>
-
-    <div class = "container2 main color clear">
+    <div class = "container2 color clear">
         <header class = "sectionHeader"> About me </header><br><br>
-        <p1 id = "aboutme">Originally from the suburbs of D.C., I moved to Colorado to attend the University of Denver in
+        <p1 id = "aboutme" class = "col-sm-12">Originally from the suburbs of D.C., I moved to Colorado to attend the University of Denver in
             2013. I recently graduated in March 2018 with my B.S. in Computer Science and minors in Mathematics and Philosophy.
             I love to hike, ski, read, and program. I currently work
             at Floral Expressions and Gourmet Goodies on Pearl Street as a florist and as a level 4 gymnastics
@@ -52,23 +48,27 @@
     </div>
 </div>
 <div class="container container3">
-    <div class = "sectionHeader">My Work</div><br>
+    <div class = "sectionHeader workpadding">My Work</div><br>
+    <div id = "final"><p4>Please see my GitHub for more!</p4></div>
     <div class="col-sm-12 col-lg-4"><image src = "website.png" class = "ppic pinfo"/>
         <br><br><div class = "pinfo"><p1>I built this website using HTML, CSS and Bootstrap
             to practice my web development skills. I especially enjoyed using and learning more about Bootstrap.
             I was impressed by it's functionality.</p1></div></div>
     <div class="col-sm-12 col-lg-4"><image src ="emsrelay.png" class = "ppic"/>
-        <br><br><div class = "pinfo"><p2>In Summer 2016 I interned for a healthcare startup<br/>
+        <br><br><div class = "pinfo"><p2>In Summer 2016 I interned for a healthcare startup
             building their iOS App using Swift and
             Objective-C. This app was meant to aid the communication
             between emergency responders and hospitals.</p2></div></div>
-    <div class="col-sm-12 col-lg-4"><image src ="mso.png" class = "ppic"/><br><br><div class = "pinfo"><p3>My responsibilites
+    <div class="col-sm-12 col-lg-4  githubpadding"><image src ="mso.png" class = "ppic"/><br><br><div class = "pinfo"><p3>My responsibilites
         with MeetScoresOnline include managing athlete profiles as well as updating the functionality of the
-        website using Javascript, HTML, Bootstrap, and CSS.</p3></div></div> <br>
+        website using Javascript, HTML, Bootstrap, and CSS.</p3></div></div></div>
 
-    <div id = "final"><p4>Please see my GitHub for more!</p4></div>
-
-</div>
-
+    <div>
+        <div class = "color">
+            <header class = "sectionHeader"><br> Flower Arrangements </header><br><br>
+            <div class="col-sm-12 col-lg-6 color fcenter"><image src = "flower1.jpeg" class = "fpic"/></div>
+            <div class="col-sm-12 col-lg-6 color fcenter"><image src ="flower2.jpg" class = "fpic"/></div></div>
+        </div>
+    </div>
 </body>
 </html>
