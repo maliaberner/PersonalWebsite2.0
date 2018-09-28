@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b285227b-1843-4c6b-8449-d9c4fcd67c1a" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/main/flower3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/main/flower4.jpg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/client/app/main/emailicon.png" afterPath="" />
       <change beforePath="$PROJECT_DIR$/client/app/main/main.html" afterPath="$PROJECT_DIR$/client/app/main/main.html" />
-      <change beforePath="$PROJECT_DIR$/client/app/main/mso.png" afterPath="$PROJECT_DIR$/client/app/main/mso.png" />
-      <change beforePath="$PROJECT_DIR$/client/app/main/style.css" afterPath="$PROJECT_DIR$/client/app/main/style.css" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,21 +17,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/app/main/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="474">
+              <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/app/main/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="33" column="21" lean-forward="false" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+            <state relative-caret-position="480">
+              <caret line="32" column="22" lean-forward="false" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -51,8 +50,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/client/app/main/main.html" />
         <option value="$PROJECT_DIR$/client/app/main/style.css" />
+        <option value="$PROJECT_DIR$/client/app/main/main.html" />
       </list>
     </option>
   </component>
@@ -63,7 +62,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="x" value="24" />
+    <option name="y" value="104" />
     <option name="width" value="1123" />
     <option name="height" value="686" />
   </component>
@@ -82,6 +82,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -112,9 +115,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -126,10 +126,10 @@
     <property name="aspect.path.notification.shown" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/client/app/main" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/client/app/main" />
     </key>
   </component>
@@ -256,15 +256,17 @@
       <workItem from="1533055709396" duration="1743000" />
       <workItem from="1533057859739" duration="1127000" />
       <workItem from="1533158427296" duration="329000" />
-      <workItem from="1534197218911" duration="4720000" />
+      <workItem from="1534197218911" duration="4900000" />
+      <workItem from="1537224155205" duration="92000" />
+      <workItem from="1538165692647" duration="1313000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16915000" />
+    <option name="totallyTimeSpent" value="18500000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1123" height="686" extended-state="0" />
+    <frame x="24" y="104" width="1123" height="686" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -306,6 +308,38 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/client/app/main/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/main/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/main/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/main/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="21" lean-forward="false" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/client/app/main/main.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
@@ -493,18 +527,18 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/app/main/main.html">
+    <entry file="file://$PROJECT_DIR$/client/app/main/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="480">
+          <caret line="32" column="22" lean-forward="false" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/app/main/style.css">
+    <entry file="file://$PROJECT_DIR$/client/app/main/main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="33" column="21" lean-forward="false" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        <state relative-caret-position="474">
+          <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
           <folding />
         </state>
       </provider>
